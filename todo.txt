@@ -1,0 +1,17 @@
+login page - username password authentication enter
+
+home page - Tile layout for the second half of the page, button on bottom right to add new medications
+store all medications and new medications in json format and show data from there
+make it show a reminder for when it's due
+
+move the '+' button to navbar below
+-------------------------------------------------------------------------
+add firebase to this for authentication and database
+-------------------------------------------------------------------------
+add a 'search nearby pharmacies' button that links to google maps
+-------------------------------------------------------------------------
+add a carousal for the medications reminder on homepage, below the healthCheckContainer. 
+it should have a slideshow effect that shows all the current medications
+-------------------------------------------------------------------------
+change appbar - remove notification bell from top, put a "Hey $User" on top center
+-------------------------------------------------------------------------

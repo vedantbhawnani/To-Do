@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824910709441",
+    "project_id": "medrem-84c61",
+    "storage_bucket": "medrem-84c61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824910709441:android:fe711a9dee6bd8488f0a40",
+        "android_client_info": {
+          "package_name": "com.example.med_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824910709441-ogca4cuj3q5dr2la47vdifnfgf2rfbnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiZISELIfIv5Fn9q8HMpnzBOmbM2tsBWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824910709441-ogca4cuj3q5dr2la47vdifnfgf2rfbnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
